@@ -9,6 +9,7 @@ html {
 }
 
 .page {
+
   inline-size: 1200px;
   block-size: 100%;
   margin: auto;
@@ -19,6 +20,7 @@ html {
   display: flex;
   justify-content: center;
   align-items: center;
+  
 }
 
 h1,
