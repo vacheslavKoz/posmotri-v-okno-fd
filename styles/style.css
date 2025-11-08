@@ -103,7 +103,7 @@ cursor: pointer;
 
 .search-form__textfield {
 
-font-family:'Fira Sans Condensed' , sans-serif;
+font-family: 'Fira Sans Condensed' , sans-serif;
 width: 225px;
 font-size: 18px;
 color: #fff;
@@ -145,7 +145,7 @@ outline: 1px solid #FFFFFF;
 
 .search-form__fieldset-title {
 
-font-family:'Fira Sans Condensed' , sans-serif;
+font-family: 'Fira Sans Condensed' , sans-serif;
 font-weight: 400;
 font-style: normal;
 font-size: 18px;
@@ -174,7 +174,7 @@ cursor: pointer;
 
 .search-form__label-text {
 
-font-family:'Fira Sans Condensed' , sans-serif ;
+font-family: 'Fira Sans Condensed' , sans-serif ;
 font-weight: 400;
 font-style: normal;
 font-size: 18px;
@@ -191,7 +191,7 @@ border: 1px solid #FFFFFF;
 
 .search-form__pseudo-checkbox::after {
 
-content:"";
+content: "";
 display: block;
 background-color: white;
 width: 100%;
@@ -256,7 +256,7 @@ text-decoration: underline;
 
 }
 
-.button:focus{
+.button:focus {
 
 outline: 1px solid #FFFFFF;
 
@@ -292,7 +292,7 @@ height: 298px;
 overflow: auto;
 display: flex;
 flex-wrap: wrap;
-gap:30px;
+gap: 30px;
 
 }
 
@@ -336,7 +336,7 @@ color: #FFFFFF;
 
   display: flex;
   flex-wrap: wrap;
-  gap:30px;
+  gap: 30px;
   padding-left: 3px;
   padding-right: 3px;
 
@@ -390,6 +390,7 @@ outline: none;
 display: flex;
 align-items: flex-start;
 justify-content: space-between;
+
 }
 
 
